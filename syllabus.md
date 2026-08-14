@@ -35,7 +35,7 @@ No required text.
 
 Class meetings will be primarily a discussion of various issues relevant to computing and technology. There will be required reading materials for each class, and it is important to come to class prepared to discuss the issues presented in the reading.
 
-There will be a student led discussion, two exams, and a final paper.
+There will be a student led discussion, four exams, and a final paper.
 
 As this course is entirely discussion based, it is imperative that you attend all classes and do any reading prior to class.
 
@@ -57,8 +57,7 @@ Your overall grade for the course will be determined as follows:
 
 -   Attendance/Participation: 5%
 -   Discussion presentation: 5%
--   Midterm exam: 30%
--   Final exam: 30%
+-   Exams: 60%
 -   Final paper: 30%
 
 Grades are assigned on a 100-point scale:

@@ -7,14 +7,14 @@ This page provides a tentative schedule for the course.
 
 All reading materials can be accessed via 
 
-[Schmidt Library](http://library.ycp.edu/home).
+[Schmidt Library](http://library.ycp.edu/home)
 
 [Communications of the ACM](https://cacm.acm.org/issues)
 
->  Date   |      Topic          |                                    Reading                                             |
-> ------- | ------------------  | -------------------------------------------------------------------------------------- |
-> Aug 23  | Course Overview        |   |
-> Aug 25  | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
+>  Date   |      Topic                 |                                    Reading                                             |
+> ------- | -------------------------  | -------------------------------------------------------------------------------------- |
+> Aug 25  | Course Overview        |   |
+> Aug 27  | Introduction           | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
 
 
 <!--
