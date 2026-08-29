@@ -15,7 +15,7 @@ All reading materials can be accessed via
 > ------- | -------------------------  | -------------------------------------------------------------------------------------- |
 > Aug 25  | Course Overview        |   |
 > Aug 27  | Introduction           | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
-> Sept 1  | Profession             | *Redefining the Software Engineering Profession for AI*, Mark Russinovich and Scott Hanselman (ACM - 4/26) 
+> Sept 1  | Profession             | *Computing is Indeed a Discipline in Crisis*, Moshe Y. Vardi (ACM 11/25) <br> *Redefining the Software Engineering Profession for AI*, Mark Russinovich and Scott Hanselman (ACM - 4/26) 
 
 <!--
 > Aug 30  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *Advancing Computing as a Science and Profession - But to What End?*, Moshe Y. Vardi (ACM - 3/20) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
