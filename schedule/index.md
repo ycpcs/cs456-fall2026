@@ -15,8 +15,12 @@ All reading materials can be accessed via
 > ------- | -------------------------  | -------------------------------------------------------------------------------------- |
 > Aug 25  | Course Overview        |   |
 > Aug 27  | Introduction           | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
-> Sept 1  | Profession             | *Computing is Indeed a Discipline in Crisis*, Moshe Y. Vardi (ACM - 11/25) <br /> *Redefining the Software Engineering Profession for AI*, Mark Russinovich and Scott Hanselman (ACM - 4/26) 
-> Sept 3  | Professional Ethics    | *Computer Science Under Trump*, Logan Kugler (ACM - 7/25) <br /> *The Future of Professional Ethics in Computing*, Bernd Carsten Stahl and Susan Winter (ACM - 8/25) 
+> Sept 1  | Profession             | *Computing is Indeed a Discipline in Crisis*, Moshe Y. Vardi (ACM - 11/25) <br /> *Redefining the Software Engineering Profession for AI*, Mark Russinovich and Scott Hanselman (ACM - 4/26) |
+> Sept 3  | Professional Ethics    | *Computer Science Under Trump*, Logan Kugler (ACM - 7/25) <br /> *The Future of Professional Ethics in Computing*, Bernd Carsten Stahl and Susan Winter (ACM - 8/25) |
+> Sept 8  | Software Engineering   | *The Coming Commoditization of Computational Thinking*, Douglas C. Schmidt (ACM - 4/26) <br /> *AI Didn't Make Programming Easier. It Just Made It Differently Difficult*, Jeremy Osborn (8/26) <br /> *AI Fatigue: Reflections on the Human Side of AI's Rapid Advancement*, Victor Dibia (ACM - 12/25) |
+> Sept 10 | Intellectual Property  | *Who Owns AI's Output?*, Logan Kugler (ACM - 1/25) <br /> *AI Authorship Revisited*, Pamela Samuelson (ACM - 7/25) <br /> *Does Using In-Copyright Works as Training Data Infringe?*, Pamela Samuelson (ACM - 11/25) |
+> Sept 15 | **Exam 1**             | |
+
 
 <!--
 > Aug 30  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *Advancing Computing as a Science and Profession - But to What End?*, Moshe Y. Vardi (ACM - 3/20) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
