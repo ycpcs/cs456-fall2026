@@ -20,6 +20,7 @@ All reading materials can be accessed via
 > Sept 8  | Software Engineering   | *The Coming Commoditization of Computational Thinking*, Douglas C. Schmidt (ACM - 4/26) <br /> *AI Didn't Make Programming Easier. It Just Made It Differently Difficult*, Jeremy Osborn (8/26) <br /> *AI Fatigue: Reflections on the Human Side of AI's Rapid Advancement*, Victor Dibia (ACM - 12/25) |
 > Sept 10 | Intellectual Property  | *Who Owns AI's Output?*, Logan Kugler (ACM - 1/25) <br /> *AI Authorship Revisited*, Pamela Samuelson (ACM - 7/25) <br /> *Does Using In-Copyright Works as Training Data Infringe?*, Pamela Samuelson (ACM - 11/25) |
 > Sept 15 | **Exam 1**             | |
+> Sept 17 | Privacy                | [How data brokers get your information, even if you're careful](https://www.pcworld.com/article/3188311/how-data-brokers-get-your-information-even-if-youre-careful.html), Sam Singleton (PCWorld - 7/26) <br /> *Beyond the Checkbox: Upgrading the Right to Opt Out*, Sebastian Zimmeck (ACM - 7/25) <br /> *It Takes a Village to Teach Privacy*, Yaxing Yao and Lanjing Liu (ACM - 2/26) |
 
 
 <!--
