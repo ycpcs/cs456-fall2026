@@ -18,6 +18,9 @@ Welcome to the website for CS 456, Social and Professional Issues in Computing, 
 
 ## News
 * **Aug 25** - Welcome back!
+* **Sep 15 - Exam 1**
+* **Oct 8 - Exam 2**
+* **Oct 13 - NO CLASS - FALL BREAK**
 
 
 
