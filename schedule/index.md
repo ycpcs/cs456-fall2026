@@ -26,7 +26,22 @@ All reading materials can be accessed via
 > Sept 29 | Individuals and AI     | *AI Individualism: What Are Social Relationships in the Age of Artificial Intelligence*, Petter Bae Brandtzaeg, Marita Skjuve, and Asbjorn Folstad (ACM - 4/26) <br /> *AI Companions: The Blurring Line between Connection and Deception*, Johnny Chan (ACM - 9/26) <br /> *Against Imaginary Friends: Why Digital Companions Are No Solution to Social Isolation*, Robert Sparrow and James Brown (ACM - 2/26) |
 > Oct 1   | Society and AI         | *AI and Trust*, Bruce Schneier (ACM - 8/25) <br /> *The Pollution of AI*, Antonis Kakas (ACM - 5/25) <br /> *Information Power!*, Chris Bronk (ACM - 11/25) |
 > Oct 6   | Future of AI           | *Balancing Sustainable Computing and Computing for Sustainability*, Michela Taufer et al. (ACM 9/26) <br /> *Shaping AIs Impact on Billions of Lives*, Mariano-Florentino Cuellar, Jeff Dean, Finale Doshi-Velez, John Hennessy, Andy Konwinski, Sanmi Koyejo, Pelonomi Moiloa, Emma Pierson, and David Patterson (ACM - 1/26) <br /> *Three AI Futures*, Peter J. Denning (ACM - 9/25) |
-> Oct 8 | **Exam 2**             | |
+> Oct 8   | **Exam 2**             | |
+> Oct 15  | Student Presenatation  | |
+> Oct 20  | Student Presenatation  | |
+> Oct 22  | Student Presenatation  | |
+> Oct 27  | Student Presenatation  | |
+> Oct 29  | Student Presenatation  | |
+> Nov 3   | **Exam 3**             | |
+> Nov 5   | Student Presenatation  | |
+> Nov 10  | Student Presenatation  | |
+> Nov 12  | Student Presenatation  | |
+> Nov 17  | Student Presenatation  | |
+> Nov 19  | Student Presenatation  | |
+> Nov 24  | Student Presenatation  | |
+> Nov 26  | **NO CLASS - THANKSGIVING BREAK**  | |
+> Dec 1   | Student Presenatation  | |
+> Dec 3   | **Exam 4**             | |
 
 <!--
 > Aug 30  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *Advancing Computing as a Science and Profession - But to What End?*, Moshe Y. Vardi (ACM - 3/20) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
